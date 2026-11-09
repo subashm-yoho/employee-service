@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+httpx
+pytest
+pytest-cov
+black
+ruff
+pre-commit
